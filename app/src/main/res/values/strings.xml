@@ -27,4 +27,5 @@
     <string name="crime_report_subject">CriminalIntent Crime Report</string>
     <string name="send_report">Send crime report via</string>
     <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="image_view_title">Suspect image</string>
 </resources>
